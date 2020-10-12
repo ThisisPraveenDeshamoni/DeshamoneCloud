@@ -7,4 +7,4 @@ Then went To current Directory of these files
 used gcloud app deploy command for deployment
 i got the differnt servers to host in different regions.
 after choosing one of the region i hosted it using that gcloud app deploy command
-then for url i used gcloud app browse.
+then for getting url i used gcloud app browse.
